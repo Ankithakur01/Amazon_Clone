@@ -1,6 +1,6 @@
 Hello!,
 
-This project is the cloning of global amazon website.
-This includes the technology such as HTML and CSS.
+This project is a clone of the global Amazon website.
+This includes technology such as HTML and CSS.
 
 Thank you!:)
