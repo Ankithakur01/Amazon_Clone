@@ -1,6 +1,8 @@
-Hello!,
+#Amazon_clone
 
-This project is a clone of the global Amazon website.
-This includes technology such as HTML and CSS.
+Hello!, Welcome
+
+This is a clone of an Amazon website which is one of the biggest online e-commerce sites. 
+This project includes technology such as HTML and CSS.
 
 Thank you!:)
